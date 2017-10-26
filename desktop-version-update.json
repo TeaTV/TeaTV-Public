@@ -1,0 +1,11 @@
+{
+  "app": "TeaTV",
+  "version": "0.1.0",
+  "zip":
+    "",
+  "bigUpdate": false,
+  "require": {
+    "minVersion": "0.1.0",
+    "minZip": ""
+  }
+}
