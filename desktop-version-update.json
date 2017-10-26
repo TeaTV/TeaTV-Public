@@ -1,11 +1,10 @@
 {
   "app": "TeaTV",
   "version": "0.1.0",
-  "zip":
-    "",
-  "bigUpdate": false,
+  "zip": "https://github.com/TeaTV/TeaTV-Public/releases/tag/TeaTV-desktop-0.1.0",
+  "bigUpdate": true,
   "require": {
     "minVersion": "0.1.0",
-    "minZip": ""
+    "minZip": "https://github.com/TeaTV/TeaTV-Public/releases/tag/TeaTV-desktop-0.1.0"
   }
 }
